@@ -16,8 +16,6 @@ step7.
 ![7](https://github.com/Jayveerchauhan/AWS-Load-balancing-Project/assets/105415219/ae2c2a41-d56a-4bd5-a7f3-5d928a92c907)
 step8.
 ![8](https://github.com/Jayveerchauhan/AWS-Load-balancing-Project/assets/105415219/b3de05e1-fcb8-4b6b-9db8-e7fb1556a808)
-step9.
-![9](https://github.com/Jayveerchauhan/AWS-Load-balancing-Project/assets/105415219/58b99aea-9983-4913-83b0-7d1e30368835)
 step10.
 ![10](https://github.com/Jayveerchauhan/AWS-Load-balancing-Project/assets/105415219/0f83a8fd-0873-4f19-adb1-faba824f8b8d)
 step11.
